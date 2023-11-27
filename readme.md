@@ -10,12 +10,12 @@ Data product managers need to deliver analytics, insights, predictive models, ap
 
 ## How is the repository organized?
 - Data Product Management
-  - **Career Mapping:** Career planning is meant for the individual to outline their career aspirations and identify their strengths and areas of improvement to make informed decisions on how to grow in their career.
-  - **Communication:** Communications is for working on improving communication, building trust, managing stakeholder expectations, getting buy-in etc.
-  - **Delivery:** Delivery is focused on shipping data products. Key concerns are velocity of experiments, documentation, validated functionality, fixes etc.
-  - **Discovery:** Discovery is all about customer empathy, market understanding, identifying o
-  - **Economics:**
-  - **Strategy:**
+  - **Career Planning:** The documents in this directory will help you outline your career aspirations, identify strengths, and areas of improvement to help with career progression.
+  - **Communication:** This is the most important directory. The documents in this directory will help you communicate effectively with various stakeholders as a data product leader.
+  - **Delivery:** The delivery directory is focused on shipping data products. The documents in this directory will help with managing the delivery of validated data products. It will help measure velocity of experimentation, documentation, validated functionality, fixes etc.
+  - **Discovery:** The discovery section consists of prompts is all about customer empathy, market understanding, identifying opportunities for the business.
+  - **Economics:** Economics involves the overall dynamics of demand, supply, cost, effort, impact, regulations, etc.
+  - **Strategy:** Strategy is to deliberately consider the market, the business, and outline a path forward.
 
 ## Why is it relevant & why now?
 Data products and platforms are hard to build.
@@ -51,6 +51,6 @@ Debadyuti Roy Chowdhury
 **LinkedIn:** https://www.linkedin.com/in/debadyutirc/
 **Twitter:** https://twitter.com/deb_data_pm
 **Motivation:**
-I have been in various data roles since 2009. Have developed products in advanced analytics & insights, applied artificial intelligence & machine learning and packaged datasets as a product. Each of these product portfolios have delivered a combined $200M business value. Since 2014, I have grown in product management roles and delivered data products and platforms in Healthcare & Life Sciences, Public Safety & Surveillance, Automotive, and eCommerce.
+I have been in a number of data roles since 2009. Have developed products in advanced analytics & insights, applied artificial intelligence & machine learning and packaged datasets as a product. Each of these product portfolios have delivered a combined $200M business value. Since 2014, I have grown in product management roles and delivered data products and platforms in Healthcare & Life Sciences, Public Safety & Surveillance, Automotive, and eCommerce.
 
-As a a Head of Product 2 early stage startups and a Director of Product at a growth stage scale up, I have experienced the challenge of hiring and developing product managers for data teams. There are multiple communities and conversations where people have shared similar challenges as well as asked about resources to level up. Based on the market demand and the desire of the people asking questions it makes sense to share the patterns refined over the last decade of practice and set a direction for the Product Management function in Data Orgs.
+As a Head of Product at early stage startups and a Director of Product at a growth stage scale up, I have experienced the challenge of hiring and developing product managers for data teams. There are multiple communities and conversations where people have shared similar challenges as well as asked about resources to level up. Based on the market demand and the desire of the people asking questions it makes sense to share the patterns refined over the last decade of practice and set a direction for the Product Management function in Data Orgs.
