@@ -47,9 +47,9 @@ Here is a representation of the data product management journey:
 * Support: Customer Support SLAs, Documenation, Insight Aggregation, Customer Success
 
 ## Creator
-Debadyuti Roy Chowdhury
-**LinkedIn:** https://www.linkedin.com/in/debadyutirc/
-**Twitter:** https://twitter.com/deb_data_pm
+- Debadyuti Roy Chowdhury
+  - **LinkedIn:** https://www.linkedin.com/in/debadyutirc/
+  - **Twitter:** https://twitter.com/deb_data_pm
 **Motivation:**
 I have been in various data roles since 2009. Have developed products in advanced analytics & insights, applied artificial intelligence & machine learning and packaged datasets as a product. Each of these product portfolios have delivered a combined $200M business value. Since 2014, I have grown in product management roles and delivered data products and platforms in Healthcare & Life Sciences, Public Safety & Surveillance, Automotive, and eCommerce.
 
