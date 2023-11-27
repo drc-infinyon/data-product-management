@@ -47,10 +47,7 @@ Here is a representation of the data product management journey:
 * Support: Customer Support SLAs, Documenation, Insight Aggregation, Customer Success
 
 ## Creator
-Debadyuti Roy Chowdhury
-**LinkedIn:** https://www.linkedin.com/in/debadyutirc/
-**Twitter:** https://twitter.com/deb_data_pm
-**Motivation:**
-I have been in a number of data roles since 2009. Have developed products in advanced analytics & insights, applied artificial intelligence & machine learning and packaged datasets as a product. Each of these product portfolios have delivered a combined $200M business value. Since 2014, I have grown in product management roles and delivered data products and platforms in Healthcare & Life Sciences, Public Safety & Surveillance, Automotive, and eCommerce.
-
-As a Head of Product at early stage startups and a Director of Product at a growth stage scale up, I have experienced the challenge of hiring and developing product managers for data teams. There are multiple communities and conversations where people have shared similar challenges as well as asked about resources to level up. Based on the market demand and the desire of the people asking questions it makes sense to share the patterns refined over the last decade of practice and set a direction for the Product Management function in Data Orgs.
+- Debadyuti Roy Chowdhury
+  - **LinkedIn:** https://www.linkedin.com/in/debadyutirc/
+  - **Twitter:** https://twitter.com/deb_data_pm
+  - **Motivation:** I have been in various data roles since 2009. Have developed products in advanced analytics & insights, applied artificial intelligence & machine learning and packaged datasets as a product. Each of these product portfolios have delivered a combined $200M business value. Since 2014, I have grown in product management roles and delivered data products and platforms in Healthcare & Life Sciences, Public Safety & Surveillance, Automotive, and eCommerce. As a a Head of Product 2 early stage startups and a Director of Product at a growth stage scale up, I have experienced the challenge of hiring and developing product managers for data teams. There are multiple communities and conversations where people have shared similar challenges as well as asked about resources to level up. Based on the market demand and the desire of the people asking questions it makes sense to share the patterns refined over the last decade of practice and set a direction for the Product Management function in Data Orgs.
