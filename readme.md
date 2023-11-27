@@ -10,12 +10,12 @@ Data product managers need to deliver analytics, insights, predictive models, ap
 
 ## How is the repository organized?
 - Data Product Management
-  - **Career Mapping:** Career planning is meant for the individual to outline their career aspirations and identify their strengths and areas of improvement to make informed decisions on how to grow in their career.
-  - **Communication:** Communications is for working on improving communication, building trust, managing stakeholder expectations, getting buy-in etc.
-  - **Delivery:** Delivery is focused on shipping data products. Key concerns are velocity of experiments, documentation, validated functionality, fixes etc.
-  - **Discovery:** Discovery is all about customer empathy, market understanding, identifying o
-  - **Economics:**
-  - **Strategy:**
+  - **Career Planning:** The documents in this directory will help you outline your career aspirations, identify strengths, and areas of improvement to help with career progression.
+  - **Communication:** This is the most important directory. The documents in this directory will help you communicate effectively with various stakeholders as a data product leader.
+  - **Delivery:** The delivery directory is focused on shipping data products. The documents in this directory will help with managing the delivery of validated data products. It will help measure velocity of experimentation, documentation, validated functionality, fixes etc.
+  - **Discovery:** The discovery section consists of prompts is all about customer empathy, market understanding, identifying opportunities for the business.
+  - **Economics:** Economics involves the overall dynamics of demand, supply, cost, effort, impact, regulations, etc.
+  - **Strategy:** Strategy is to deliberately consider the market, the business, and outline a path forward.
 
 ## Why is it relevant & why now?
 Data products and platforms are hard to build.
