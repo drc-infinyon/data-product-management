@@ -1,4 +1,13 @@
-# Product management
+# Data Product management
+Managing data as a product has been recently positioned as a novel concept in recent years.
+
+Ironically, this push to treat data as a product comes at a time when the notion of product management in tech is going through reforms.
+
+For folks like me who have managed physical consumer products and have background and interest outside tech, this seems like a correction. Product management in tech went through a period of confusion, deconstruction, and is now normalizing based on the first principles.
+
+As data product management becomes a thing, its time for more chaos and confusion through the forming storming and norming of this new iteration of product management.
+
+The purpose of this document is to align with the first principles of product thinking and product management to inform a clear flow of data product management.
 
 # Traits of product managers
 
