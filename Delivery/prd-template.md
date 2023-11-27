@@ -35,9 +35,8 @@ Lo Fidelity Mockups -> High Fidelity Mockups -> Click Through Prototypes
 - Linked Concept: [Concept Link]
 - Linked RFC: [RFC Link]
 - Target Release: Target Release Month-Year
-
-- Impacted customer:
-    - 
+- Impacted customers:
+  - Acme Co.
 
 </details>
 
